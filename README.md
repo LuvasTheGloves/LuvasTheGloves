@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuvasTheGloves
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Lua (in Roblox Studio)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
